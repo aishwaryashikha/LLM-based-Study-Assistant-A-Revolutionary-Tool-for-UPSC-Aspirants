@@ -1,0 +1,10 @@
+boto3 # to connect to AWS
+awscli # to connect to AWS
+pypdf # to read pdf files
+langchain # to build back-end of LLM-RAG application
+langchain-community
+streamlit # to build front-end of LLM-RAG application
+faiss-cpu # to convert PDFs to vectors and then search for similar documents
+watchdog
+langchain-community
+packaging # to package the application
